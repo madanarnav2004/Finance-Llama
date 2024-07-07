@@ -51,3 +51,18 @@ response2 = chatbot.predict(query=query2)
 
 print(response1)
 print(response2)
+```
+## Screenshots
+
+### Fine -Tuning Llama 2
+![single node fine tuning on spr notebook](images/finetune.png)
+*a screenshot of idc jupyter notebook results on fine tuning llama 2*
+
+### Running chatbot on SPR
+![use chatbot on spr](images/chatbot_spr.png)
+*a screenshot of running the use chatbot on spr notebook*
+
+### Using Finance Llama Finetuned
+![Use case of fune tuned model](images/use_case.png)
+*Advanced AI algorithm at work, matching users based on their preferences.*
+

@@ -64,5 +64,5 @@ print(response2)
 
 ### Using Finance Llama Finetuned
 ![Use case of fune tuned model](images/use_case.png)
-*Advanced AI algorithm at work, matching users based on their preferences.*
+*ability to answer finance-related questions with great accuracy*
 

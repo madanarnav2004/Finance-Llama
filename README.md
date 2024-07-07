@@ -55,11 +55,11 @@ print(response2)
 ## Screenshots
 
 ### Fine -Tuning Llama 2
-![single node fine tuning on spr notebook](images/finetune.png)
+![single node fine tuning on spr notebook](images/finetuning.png)
 *a screenshot of idc jupyter notebook results on fine tuning llama 2*
 
 ### Running chatbot on SPR
-![use chatbot on spr](images/chatbot_spr.png)
+![use chatbot on spr](images/chat_spr.png)
 *a screenshot of running the use chatbot on spr notebook*
 
 ### Using Finance Llama Finetuned

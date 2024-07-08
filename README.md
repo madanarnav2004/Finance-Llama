@@ -6,9 +6,10 @@ FinanceLlama is a chatbot fine-tuned on a short version of the Finance Alpaca da
 
 FinanceLlama is based on the LLaMA-2 model, specifically fine-tuned to understand and respond to queries about finance topics relevant to students and young professionals. This model is suitable for answering questions like "What is a fixed deposit?" and "Where can I invest as a student?"
 
-##Video Demo
+## Video Demo
 [Video Demo Here](https://www.loom.com/share/1a2d1102c519488e827f6c11d86d7bfd?sid=ed354976-f6bd-44dd-a9f7-194d1ccbcbb3)
-##Link To Model on HuggingFace
+
+## Link To Model on HuggingFace
 [HuggingFace Model](https://huggingface.co/madanarnav/finance-llama-finetune-v1)
 
 
